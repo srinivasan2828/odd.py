@@ -1,4 +1,4 @@
-n=int(input("enter the number"))
+n=int(input())
 if(n%2)==0:
   print("n is odd")
 elif(n<0):
